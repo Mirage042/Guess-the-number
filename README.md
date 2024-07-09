@@ -1,3 +1,3 @@
-# Simple Guess the number game where you have to guess a number between 1 and 20
+# Simple Guess the number (1-20) game
 
 Includes a highscore system which keeps track of the least attempts taken to guess
